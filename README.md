@@ -11,6 +11,7 @@
 
 # Bağımlı 2 Örneklem T Testi
 ![image](https://user-images.githubusercontent.com/58151691/103439512-a5567980-4c4e-11eb-95fb-da5b4e146e52.png)
+Not : Değerler birbirinden virgül ile ayrılmalı.
 
 
 
